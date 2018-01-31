@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35eee5f7-a37f-4564-a970-34ef6cf22c2d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Java_03_01.iml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_03_01/com/company/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,6 +135,14 @@
       <option name="presentableId" value="Default" />
       <updated>1517386407087</updated>
     </task>
+    <task id="LOCAL-00001" summary="Uzduotis0301">
+      <created>1517386939326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517386939326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -176,6 +178,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Uzduotis0301" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uzduotis0301" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
